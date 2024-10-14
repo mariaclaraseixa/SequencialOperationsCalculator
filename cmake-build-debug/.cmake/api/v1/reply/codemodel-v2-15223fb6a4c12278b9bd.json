@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MultiplasOperacoesSequencialOO",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MultiplasOperacoesSequencialOO::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MultiplasOperacoesSequencialOO-Debug-2bff10fd9624eae76c46.json",
+					"name" : "MultiplasOperacoesSequencialOO",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mariaclaraseixascheffel/CLionProjects/MultiplasOperacoesSequencialOO/cmake-build-debug",
+		"source" : "/Users/mariaclaraseixascheffel/CLionProjects/MultiplasOperacoesSequencialOO"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
